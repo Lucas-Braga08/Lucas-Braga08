@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou [SEU NOME]</h1>
+<h1 align="center">Olá 👋, eu sou Lucas Braga</h1>
 
 <p align="center">
 🎓 Estudante de Desenvolvimento de Sistemas — M-Tec AMS <br>
