@@ -73,7 +73,7 @@ Aplicativo simples feito em linguagem Kotlin.
 
 ---
 
-## 📊 Rework Site Etec
+## 🌐 Rework Site da Etec
 Recriação do site da Etec Zona Leste.
 
 📌 Tecnologias:
@@ -86,7 +86,7 @@ Recriação do site da Etec Zona Leste.
 
 ---
 
-## ☕ Cálculo de Salários
+## 🧮 Cálculo de Salários
 Calculadora simples de salários.
 
 📌 Tecnologias:
