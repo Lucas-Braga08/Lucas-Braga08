@@ -52,52 +52,49 @@ HTML • CSS • JavaScript (Básico) • Java • Kotlin (Básico) • PHP (Bá
 
 # 🚀 Projetos em Destaque
 
-## 🔐 Sistema de Login em PHP
-Sistema com autenticação de usuários utilizando PHP e banco de dados.
-
-📌 Tecnologias:
-- HTML
-- CSS
-- PHP
-- MySQL
-
-➡️ COLOQUE O LINK DO REPOSITÓRIO AQUI
-
----
-
-## 📱 Progressive Web App (PWA)
-Aplicação web instalável no celular utilizando manifest e service worker.
-
-📌 Tecnologias:
-- HTML
-- CSS
-- JavaScript
-
-➡️ COLOQUE O LINK DO REPOSITÓRIO AQUI
-
----
-
-## 📊 Dashboard Administrativo
-Painel administrativo com interface moderna e organização de informações.
-
-📌 Tecnologias:
-- HTML
-- CSS
-- JavaScript
-- PHP
-
-➡️ COLOQUE O LINK DO REPOSITÓRIO AQUI
-
----
-
-## ☕ Sistema em Java
-Projeto desenvolvido em Java utilizando lógica de programação e interface gráfica.
+## 🧮 Calculadora em JFrame
+Criação de uma calculadora simples em java, utilizando JFrame.
 
 📌 Tecnologias:
 - Java
 - JFrame/Swing
 
-➡️ COLOQUE O LINK DO REPOSITÓRIO AQUI
+➡️ [Link do projeto](https://github.com/Lucas-Braga08/Lucas-Braga08/edit/main/README.md)
+
+---
+
+## 📱 Aplicativo Básico
+Aplicativo simples feito em linguagem Kotlin.
+
+📌 Tecnologias:
+- Kotlin
+
+➡️ [Link do projeto](https://github.com/Lucas-Braga08/AppBasicoKotlin)
+
+---
+
+## 📊 Rework Site Etec
+Recriação do site da Etec Zona Leste.
+
+📌 Tecnologias:
+- HTML
+- CSS
+- JavaScript
+- PHP
+
+➡️ [Link do projeto](https://github.com/Lucas-Braga08/SiteEtec)
+
+---
+
+## ☕ Cálculo de Salários
+Calculadora simples de salários.
+
+📌 Tecnologias:
+- HTML
+- CSS
+- PHP
+
+➡️ [Link do Projeto](https://github.com/Lucas-Braga08/CalculadoraSalario)
 
 ---
 
@@ -117,7 +114,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&l
 
 # 📫 Contato
 
-📧 Email: SEUEMAIL@email.com
+📧 Email: lucasbsl2008@gmail.com
 
 💼 LinkedIn:
-COLOQUE SEU LINKEDIN AQUI
+www.linkedin.com/in/lucas-braga-253b67296
