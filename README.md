@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Estudante de Desenvolvimento de Sistemas — M-Tec AMS <br>
-💻 Desenvolvedor em formação focado em desenvolvimento web e sistemas <br>
+💻 Desenvolvedor FullStack em formação focado em desenvolvimento web e sistemas <br>
 🚀 Buscando oportunidade como Jovem Aprendiz ou Estagiário em TI
 </p>
 
