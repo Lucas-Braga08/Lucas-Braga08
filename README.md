@@ -35,7 +35,7 @@ Atualmente estou desenvolvendo projetos utilizando tecnologias front-end e back-
 <br>
 
 <p align="center">
-HTML • CSS • Java • PHP • JavaScript (Básico) •  Kotlin (Básico)
+HTML • CSS • Java • PHP • JavaScript •  Kotlin • C++
 </p>
 
 ---
