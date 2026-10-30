@@ -61,7 +61,7 @@ Criação de uma calculadora simples em java, utilizando JFrame.
 - Java
 - JFrame/Swing
 
-➡️ [Link do projeto](https://github.com/Lucas-Braga08/Lucas-Braga08/edit/main/README.md)
+➡️ [Link do projeto](https://github.com/Lucas-Braga08/CalculadoraJFrame)
 
 ---
 
